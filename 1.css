@@ -1,0 +1,29 @@
+#logo{
+    color: #fff;
+    background-color: #000;
+    font-size: 18px;
+}
+
+.a{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-size: 18px;
+    margin: 20px;
+    width: 160px;
+    height: 120px;
+    display: inline-block;
+}
+#massages{
+    background-color: red;
+    
+}
+#Views{
+    background-color: blue;
+}
+#Shares{
+    background-color: green;
+}
+#Users{
+    background-color: orange;
+}
